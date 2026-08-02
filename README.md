@@ -8,9 +8,11 @@ Riting Beach, Aceh, Indonesia
 
 ## 📖 Project Overview
 
-This project reconstructs the 2004 Aceh tsunami using COMCOT v1.7.
+This repository contains my undergraduate research on numerical tsunami modeling using COMCOT v1.7.
 
-The research estimates:
+The study reconstructs the 2004 Aceh tsunami and analyzes tsunami propagation toward Riting Beach, Aceh, Indonesia.
+
+The research focuses on:
 
 - Maximum tsunami wave height
 - Estimated Time of Arrival (ETA)
@@ -52,7 +54,7 @@ Wave Height & ETA Maps
 ## 📈 Outputs
 
 - Maximum Wave Height Map
-- Estimated Time Arrival (ETA) Map
+- Estimated Time of Arrival (ETA) Map
 - Bathymetry Map
 - Numerical Analysis
 
@@ -60,8 +62,12 @@ Wave Height & ETA Maps
 
 ## 👩‍🎓 Author
 
-Gabrella (Perfic) Markhesy
+**Gabrella (Perfic) Markhesy**
 
-Marine Science
+Bachelor's Degree Candidate in Marine Science
+
+Faculty of Mathematics and Natural Sciences
 
 Tanjungpura University
+
+Pontianak, Indonesia
